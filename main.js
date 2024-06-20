@@ -66,7 +66,7 @@ function drawHexagons() {
 
     // cambio mario pruebas
     
-    // cambio
+    // cambio 2
     // Dibujar hexágonos alrededor del hexágono central
     const numeroLados = 6;
     const distancia = radio * 2; // Distancia desde el centro del hexágono central al centro de los hexágonos circundantes
