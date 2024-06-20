@@ -64,6 +64,7 @@ function drawHexagons() {
     // Dibujar el hexágono central
     drawhexagon(centroX, centroY, radio);
 
+    // cambio wolf pruebas
     // cambio mario pruebas
     
     // cambio
