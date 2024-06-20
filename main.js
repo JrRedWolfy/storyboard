@@ -10,6 +10,7 @@ const widthPorcentage = 70
 const heightPorcentage = 50
 const padding = 50
 
+//merge
 
 //Variables del hexagono
 
