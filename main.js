@@ -64,6 +64,10 @@ function drawHexagons() {
     // Dibujar el hexágono central
     drawhexagon(centroX, centroY, radio);
 
+<<<<<<< Updated upstream
+=======
+    // cambio mario pruebas
+>>>>>>> Stashed changes
     // Dibujar hexágonos alrededor del hexágono central
     const numeroLados = 6;
     const distancia = radio * 2; // Distancia desde el centro del hexágono central al centro de los hexágonos circundantes
