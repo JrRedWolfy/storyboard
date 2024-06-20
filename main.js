@@ -10,6 +10,7 @@ const widthPorcentage = 70
 const heightPorcentage = 50
 const padding = 50
 
+//merge
 
 //Variables del hexagono
 
@@ -64,6 +65,9 @@ function drawHexagons() {
     drawhexagon(centroX, centroY, radio);
 
     // cambio wolf pruebas
+    // cambio mario pruebas
+    
+    // cambio
     // Dibujar hexágonos alrededor del hexágono central
     const numeroLados = 6;
     const distancia = radio * 2; // Distancia desde el centro del hexágono central al centro de los hexágonos circundantes

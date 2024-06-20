@@ -12,7 +12,7 @@ div{
     align-items: center;
 }
 canvas{
-    border: 3px solid white;
+    border: 3px solid red;
     border-radius: 10px;
     background-color: rgba(169, 169, 169, 0.202);
 }
