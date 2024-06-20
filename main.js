@@ -64,6 +64,8 @@ function drawHexagons() {
     // Dibujar el hexágono central
     drawhexagon(centroX, centroY, radio);
 
+    // cambio mario pruebas
+    
     // cambio
     // Dibujar hexágonos alrededor del hexágono central
     const numeroLados = 6;
